@@ -2,7 +2,7 @@
   Hi there 👋 I'm Elcid
 </h1>
 <h2 align="center">
-  JR Full-stack Developer from Philippines
+  JR Full-stack Developer | PH
 </h2>
 <div align="center">
   <a href="mailto:elcid.delapaz@gmail.com">
