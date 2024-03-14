@@ -1,9 +1,9 @@
-<h2 align="center">
+<h1 align="center">
   Hi there 👋 I'm Elcid
-</h2>
-<h3 align="center">
+</h1>
+<h2 align="center">
   JR Full-stack Developer from Philippines
-</h3>
+</h2>
 <div align="center">
   <a href="mailto:elcid.delapaz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
