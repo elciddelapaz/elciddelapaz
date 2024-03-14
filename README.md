@@ -25,7 +25,6 @@
   ## Experience
   <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
-  <img align="right" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
