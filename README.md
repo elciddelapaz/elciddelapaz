@@ -8,13 +8,13 @@
   <a href="mailto:elcid.delapaz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://m.me/elcidlang">
+  <a href="https://m.me/elcidlang" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/elciddelapaz/">
+  <a href="https://www.linkedin.com/in/elciddelapaz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-elciddelapaz.vercel.app/">
+  <a href="https://portfolio-elciddelapaz.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge" />
   </a>
   </div>
