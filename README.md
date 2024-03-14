@@ -23,7 +23,6 @@
   📆 2019 - 2023\
   📍 **Adventist University of the Philippines** - Cavite, PH
   ## Experience
-  <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white" />
   <img align="right" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white" />
