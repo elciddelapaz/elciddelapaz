@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/elciddelapaz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://portfolio-elciddelapaz.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge" />
+  </a>
   </div>
 <details>
   <summary align="center">📃 Resume</summary>
